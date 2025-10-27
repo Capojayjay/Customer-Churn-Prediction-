@@ -133,9 +133,8 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ## 👤 Author
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-
+- GitHub: (https://github.com/Capojayjay)
+- LinkedIn: 
 ## 🙏 Acknowledgments
 
 - Dataset: IBM Telco Customer Churn
