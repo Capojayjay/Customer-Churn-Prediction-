@@ -131,9 +131,10 @@ This project demonstrates:
 
 MIT License - See [LICENSE](LICENSE) file for details
 
-## 👤 Author
+## 👤 Authors
 
 - GitHub: (https://github.com/Capojayjay)
+- Github: (https://github.com/RomiCocaPermont 
 - LinkedIn: 
 ## 🙏 Acknowledgments
 
