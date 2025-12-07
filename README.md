@@ -106,7 +106,7 @@ jupyter notebook
 ```
 
 2. **Open the main notebook**
-   - Navigate to `churn_prediction.ipynb` in the Jupyter interface
+   - Navigate to 'CS205-Customer_Churn_Project.ipynb' in the Jupyter interface
 
 3. **Execute the analysis**
    - Run all cells sequentially: **Cell** → **Run All**
