@@ -14,12 +14,12 @@ This research implementation demonstrates the complete machine learning workflow
 
 | Model | Accuracy | Type |
 |-------|----------|------|
-| Logistic Regression | 80.30% | Linear |
-| Gradient Boosting | 79.78% | Ensemble |
-| Support Vector Machine | 79.44% | Kernel-based |
-| Random Forest | 79.05% | Ensemble |
-| Decision Tree | 75.47% | Tree-based |
-| K-Nearest Neighbors | 74.56% | Instance-based |
+| Logistic Regression | 74.73% | Linear |
+| Gradient Boosting | 79.50% | Ensemble |
+| Support Vector Machine | 74.67% | Kernel-based |
+| Random Forest | 78.93% | Ensemble |
+| Decision Tree | 72.51% | Tree-based |
+| K-Nearest Neighbors | 74.61% | Instance-based |
 
 ## 📈 Project Features
 
